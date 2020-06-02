@@ -11,7 +11,6 @@ type
     BitBtn1: TBitBtn;
     BitBtn2: TBitBtn;
     Label1: TLabel;
-    Label2: TLabel;
     procedure BitBtn1Click(Sender: TObject);
   private
     { Private declarations }
